@@ -35,6 +35,7 @@
 - Clear layout with consistent fonts, themes, and color-coding to enhance user experience.
 - Dashboard Interaction <a href="https://github.com/Mano-1105/Data-Analysis---HR-Dashboard/blob/main/Hr_Data.%20report.pbix">View Dashboard</a>
 ## Dashboard
-https://github.com/Mano-1105/Data-Analysis---HR-Dashboard/blob/main/Screenshot-%20HR%20analysizes%20report.png
+<img width="740" alt="Screenshot- HR analysizes report" src="https://github.com/user-attachments/assets/44dfe6b1-b3a5-48c0-805e-ff231dfd0aa6" />
+
 
 
