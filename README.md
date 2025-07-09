@@ -12,7 +12,7 @@
 - Gender Distribution (%)
 - Number of Positions
 
-## 📌 Features
+## 📌 Features & Insights
 ### HR Summary Dashboard
 - Showcases total number of employees, number of recruitment sources, number of job positions, and maximum salary using KPI Cards.
 ### Employee Demographics Analysis
@@ -33,4 +33,8 @@
   Distinct Count of Positions and Sources
 ### User-Friendly Design
 - Clear layout with consistent fonts, themes, and color-coding to enhance user experience.
+- Dashboard Interaction <a href="https://github.com/Mano-1105/Data-Analysis---HR-Dashboard/blob/main/Hr_Data.%20report.pbix">View Dashboard</a>
+## Dashboard
+https://github.com/Mano-1105/Data-Analysis---HR-Dashboard/blob/main/Screenshot-%20HR%20analysizes%20report.png
+
 
