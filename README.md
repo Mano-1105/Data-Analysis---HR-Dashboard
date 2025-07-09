@@ -1,4 +1,4 @@
-# Power BI Dashboard: [Recruitment Dashboard]
+# HR: [Recruitment Dashboard]
 ## 📊 Project Overview
 •	Built an interactive dashboard integrating HR data to visualize recruitment metrics like hiring pipeline, sources, and trends.
 •	Used Excel for initial data cleaning and Power BI for dynamic data visualization with DAX formulas.
