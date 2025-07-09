@@ -22,15 +22,15 @@
 ### Position Analysis
 - Count of distinct job positions and how they are distributed across the organization.
 ### Interactive Visuals
--Used slicers and filters to explore trends over time and by hiring source or position.
+- Used slicers and filters to explore trends over time and by hiring source or position.
 ### Clean Data Model
 - Data cleaned and transformed using Power Query; unnecessary columns removed, date formats fixed, nulls handled.
 ### Custom DAX Measures
--Created DAX measures for:
+- Created DAX measures for:
   Total Hires by Year
   Gender Percentage
   Max Salary
   Distinct Count of Positions and Sources
 ### User-Friendly Design
--Clear layout with consistent fonts, themes, and color-coding to enhance user experience.
+- Clear layout with consistent fonts, themes, and color-coding to enhance user experience.
 
