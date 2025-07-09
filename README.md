@@ -4,7 +4,7 @@
 •	Used Excel for initial data cleaning and Power BI for dynamic data visualization with DAX formulas.
 
 ## 🧾 Data Source
-<a.href= "https://github.com/Mano-1105/Data-Analysis---HR-Dashboard/blob/main/HRDataset.csv"Dataset</a>
+<a href="https://github.com/Mano-1105/Data-Analysis---HR-Dashboard/blob/main/HRDataset.csv">Dataset</a>
 
 ## 📈 Key Metrics & KPIs
 - Number of Recruitment Sources
@@ -33,18 +33,4 @@
   Distinct Count of Positions and Sources
 ### User-Friendly Design
 -Clear layout with consistent fonts, themes, and color-coding to enhance user experience.
-
-## 🔍 Insights
-- Highlight 3–5 business insights discovered.
-- (e.g., "Highest sales occur in Q4", "Profit margin is lowest in Category B")
-
-## 📂 File Structure
-- `/dashboard.pbix` — Power BI project file
-- `/images/` — Screenshots of the dashboard
-- `/README.md` — This file
-
-## 🚀 Getting Started
-To open the dashboard:
-1. Download the `.pbix` file.
-2. Open it in Power BI Desktop.
 
